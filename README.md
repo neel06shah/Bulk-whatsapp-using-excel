@@ -1,4 +1,5 @@
 # Whatsapp Bulk Message sending using Excel
+It is a python script that sends WhatsApp message automatically from WhatsApp web application. It can be configured to send advertising messages to customers. It read data from an excel sheet and send a configured message to people.
 
 ## Approach
 * User scans whatsapp web ( https://web.whatsapp.com/ ) QR code to log in.
